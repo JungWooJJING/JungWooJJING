@@ -61,7 +61,7 @@
 Discovered **CVE-2025-53015** through fuzzing GitHub open-source projects.  
 → [GitHub Advisory](https://github.com/advisories/GHSA-vmhh-8rxq-fp9g)
 
-**📦 Harfbuzz Fuzzing & Security Research** _(Dec 2025 ~)_  
+**📦 Harfbuzz Fuzzing & Security Research** _(Dec 2025)_  
 → [CVE-2026-22693](https://nvd.nist.gov/vuln/detail/CVE-2026-22693)
 
 **🔧 8-bit Computer Build** _(Nov 2025 ~)_  
