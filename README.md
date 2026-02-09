@@ -89,7 +89,7 @@ LLM-based CTF solving program
 
 - 🏫 **Gachon University** — Computer Engineering (2021.03 ~)
 - 🏆 **P4C (System Hacking Study)** — TOP 3 completion (Mar ~ May 2025)
-- 📄 **Conference** — "LLM-based Software Vulnerability Analysis: Research Trends & Technical Challenges" @ Korean Institute of Information Security
+- 📄 **Conference** — LLM 기반 소프트웨어 취약점 분석 연구 동향 및 기술적 챌린지 분석 | 한국정보보호학회
 
 ---
 
