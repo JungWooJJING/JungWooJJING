@@ -77,10 +77,12 @@ LLM-based CTF solving program
 
 ## 🏆 CVE List
 
-- **CVE-2025-53015** · `ImageMagick` · Infinite loop
-- **CVE-2026-22693** · `HarfBuzz` · NULL pointer dereference  
-- **CVE-2026-2239** · `GIMP` · Heap buffer overflow
-- **CVE-2026-26981** · `OpenEXR` · Heap OOB read
+| CVE | Target | Type |
+|-----|--------|------|
+| CVE-2025-53015 | ImageMagick | Infinite loop |
+| CVE-2026-22693 | HarfBuzz | NULL pointer dereference |
+| CVE-2026-2239 | GIMP | Heap buffer overflow |
+| CVE-2026-26981 | OpenEXR | Heap OOB read |
 
 ---
 
