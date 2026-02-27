@@ -58,11 +58,10 @@
 ### Team Projects
 
 **🔓 CVE Discovery via Fuzzing** _(Mar 2025 ~ Jun 2025)_  
-Discovered **CVE-2025-53015** through fuzzing GitHub open-source projects.  
-→ [GitHub Advisory](https://github.com/advisories/GHSA-vmhh-8rxq-fp9g)
+Discovered **CVE-2025-53015** through Fuzzing   
 
 **📦 Harfbuzz Fuzzing & Security Research** _(Dec 2025)_  
-→ [CVE-2026-22693](https://nvd.nist.gov/vuln/detail/CVE-2026-22693)
+Discovered **CVE-2026-22693** through Fuzzing
 
 **🔧 8-bit Computer Build** _(Nov 2025 ~)_  
 Clock, Register, Program Counter implementation
@@ -76,12 +75,12 @@ LLM-based CTF solving program
 
 ---
 
-## 💣 Vulnerability Reporting
+## 🏆 CVE List
 
-| Target | Status | Links |
-|:---|:---:|:---|
-| **Assimp** | CVE pending | [#6461](https://github.com/assimp/assimp/issues/6461) · [#6466](https://github.com/assimp/assimp/issues/6466) · [#6468](https://github.com/assimp/assimp/issues/6468) |
-| **GIMP** | CVE pending | [GNOME#15812](https://gitlab.gnome.org/GNOME/gimp/-/issues/15812) |
+CVE-2025-53015  `ImageMagick`  Infinite loop 
+CVE-2026-22693  `HarfBuzz`     NULL pointer dereference 
+CVE-2026-2239   `GIMP`        Heap buffer overflow 
+CVE-2026-26981  `OpenEXR`     Heap OOB read 
 
 ---
 
