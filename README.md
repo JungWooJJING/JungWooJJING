@@ -77,10 +77,10 @@ LLM-based CTF solving program
 
 ## 🏆 CVE List
 
-[![CVE-2025-53015](https://img.shields.io/badge/CVE--2025--53015-ImageMagick-infinite%20loop-2370ad?style=flat-square)](링크)
-[![CVE-2026-22693](https://img.shields.io/badge/CVE--2026--22693-HarfBuzz-NULL%20ptr-8b7355?style=flat-square)](링크)
-[![CVE-2026-2239](https://img.shields.io/badge/CVE--2026--2239-GIMP-heap%20overflow-c45a11?style=flat-square)](링크)
-[![CVE-2026-26981](https://img.shields.io/badge/CVE--2026--26981-OpenEXR-OOB%20read-2d6a4f?style=flat-square)](링크)
+- **CVE-2025-53015** · `ImageMagick` · Infinite loop
+- **CVE-2026-22693** · `HarfBuzz` · NULL pointer dereference  
+- **CVE-2026-2239** · `GIMP` · Heap buffer overflow
+- **CVE-2026-26981** · `OpenEXR` · Heap OOB read
 
 ---
 
