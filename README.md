@@ -44,12 +44,12 @@
 
 ## 🏢 Affiliations
 
-| Organization | Period | Role |
+| 조직 | Period | 역할 |
 |:---:|:---:|:---|
 | **Pay1oad** | 2024.03 ~ present | - |
 | **Over1oad** | 2024.10 ~ 2025 | Pay1oad Hacking Team |
 | **SSA Lab** | 2025.07 ~ present | - |
-| **Hspace Knights Frontier** | 2025.09 ~ present | - |
+| **Hspace Knights Frontier** | 2025.09 ~ 2026.04 | - |
 
 ---
 
@@ -57,39 +57,40 @@
 
 ### Team Projects
 
-**🔓 CVE Discovery via Fuzzing** _(Mar 2025 ~ Jun 2025)_  
+**🔓 CVE Discovery via Fuzzing** _(2025.03 ~2025.06)_  
 Discovered **CVE-2025-53015** through Fuzzing   
 
-**📦 Harfbuzz Fuzzing & Security Research** _(Dec 2025)_  
+**📦 Harfbuzz Fuzzing & Security Research** _(2025.12)_  
 Discovered **CVE-2026-22693** through Fuzzing
 
-**🔧 8-bit Computer Build** _(Nov 2025 ~)_  
+**🔧 8-bit Computer Build** _(2025.11 ~ 2026.04)_  
 Clock, Register, Program Counter implementation
 
 ---
 
 ### Personal Projects
 
-**🤖 [Pwnable-Solver](https://github.com/JungWooJJING/Pwnable-Solver)** _(Jun 2025 ~)_  
+**🤖 [Pwnable-Solver](https://github.com/JungWooJJING/Pwnable-Solver)** _(2025.06 ~)_  
 LLM-based CTF solving program
 
 ---
 
 ## 🏆 CVE List
 
-| CVE | Target | Type |
+| CVE | Target | 유형 |
 |-----|--------|------|
 | CVE-2025-53015 | ImageMagick | Infinite loop |
 | CVE-2026-22693 | HarfBuzz | NULL pointer dereference |
 | CVE-2026-2239 | GIMP | Heap buffer overflow |
 | CVE-2026-26981 | OpenEXR | Heap OOB read |
+| CVE-2026-6695 | GIMP | HEAP OOB write |
 
 ---
 
 ## 🎓 Education & Achievements
 
 - 🏫 **Gachon University** — Computer Engineering (2021.03 ~)
-- 🏆 **P4C (System Hacking Study)** — TOP 3 completion (Mar ~ May 2025)
+- 🏆 **P4C (System Hacking Study)** — TOP 3 completion (3월~2025년5월)
 - 📄 **Conference** — LLM 기반 소프트웨어 취약점 분석 연구 동향 및 기술적 챌린지 분석 | 한국정보보호학회
 
 ---
