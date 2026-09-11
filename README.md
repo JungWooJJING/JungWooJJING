@@ -18,7 +18,7 @@
 ## 👋 About Me
 
 > 🔐 **Security researcher** focused on fuzzing & vulnerability discovery  
-> 🎓 **Computer Science** student @ Gachon University (2021 ~)  
+> 🎓 **Computer Science** student @ Gachon University (2021 ~ 2026)  
 > 🐛 **CVE discovery** · **Bug bounty** · Open-source security research
 
 ---
@@ -44,9 +44,9 @@
 
 ## 🏢 Affiliations
 
-| 조직 | Period | 역할 |
+| Group | Period | Role |
 |:---:|:---:|:---|
-| **Pay1oad** | 2024.03 ~ present | - |
+| **Pay1oad** | 2024.03 ~ 2026.08 | - |
 | **Over1oad** | 2024.10 ~ 2025 | Pay1oad Hacking Team |
 | **SSA Lab** | 2025.07 ~ present | - |
 | **Hspace Knights Frontier** | 2025.09 ~ 2026.04 | - |
@@ -70,7 +70,7 @@ Clock, Register, Program Counter implementation
 
 ### Personal Projects
 
-**🤖 [Pwnable-Solver](https://github.com/JungWooJJING/Pwnable-Solver)** _(2025.06 ~)_  
+**🤖 [Pwnable-Solver](https://github.com/JungWooJJING/Pwnable-Solver)** _(2025.06 ~ 2026.08)_  
 LLM-based CTF solving program
 
 ---
