@@ -44,7 +44,7 @@
 
 ## 🏢 Affiliations
 
-| Group | Period | Role |
+| Group | Period | Note |
 |:---:|:---:|:---|
 | **Pay1oad** | 2024.03 ~ 2026.08 | - |
 | **Over1oad** | 2024.10 ~ 2025 | Pay1oad Hacking Team |
