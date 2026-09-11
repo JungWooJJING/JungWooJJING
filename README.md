@@ -77,7 +77,7 @@ LLM-based CTF solving program
 
 ## 🏆 CVE List
 
-| CVE | Target | 유형 |
+| CVE | Target | Summary |
 |-----|--------|------|
 | CVE-2025-53015 | ImageMagick | Infinite loop |
 | CVE-2026-22693 | HarfBuzz | NULL pointer dereference |
