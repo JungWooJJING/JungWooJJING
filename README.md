@@ -47,7 +47,6 @@
 | Group | Period | Note |
 |:---:|:---:|:---|
 | **Pay1oad** | 2024.03 ~ 2026.08 | - |
-| **Over1oad** | 2024.10 ~ 2025 | Pay1oad Hacking Team |
 | **SSA Lab** | 2025.07 ~ present | - |
 | **Hspace Knights Frontier** | 2025.09 ~ 2026.04 | - |
 
