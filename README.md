@@ -20,7 +20,7 @@
 
 > 🔐 **Security Researcher** focused on fuzzing & vulnerability discovery  
 > 🎓 **M.S. Student in Information Security** @ Gachon University  
-> 🔬 **Graduate Researcher** @ SSA (Software Security Assessment) Lab  
+> 🔬 **Graduate Researcher** @ SSA(Software Security Assessment) Lab  
 > 🐛 **CVE Discovery** · **Bug Bounty** · Open-source security research
 
 ---
