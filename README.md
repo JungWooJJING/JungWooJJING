@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ### Hi there, I'm **JungWoo Park** 👋
@@ -17,9 +18,10 @@
 
 ## 👋 About Me
 
-> 🔐 **Security researcher** focused on fuzzing & vulnerability discovery  
-> 🎓 **Computer Science** student @ Gachon University (2021 ~ 2026)  
-> 🐛 **CVE discovery** · **Bug bounty** · Open-source security research
+> 🔐 **Security Researcher** focused on fuzzing & vulnerability discovery  
+> 🎓 **M.S. Student in Information Security** @ Gachon University  
+> 🔬 **Graduate Researcher** @ SSA (Software Security Assessment) Lab  
+> 🐛 **CVE Discovery** · **Bug Bounty** · Open-source security research
 
 ---
 
@@ -47,7 +49,7 @@
 | Group | Period | Note |
 |:---:|:---:|:---|
 | **Pay1oad** | 2024.03 ~ 2026.08 | - |
-| **SSA Lab** | 2025.07 ~ present | - |
+| **SSA (Software Security Assessment) Lab** | 2025.07 ~ present | Graduate Researcher |
 | **Hspace Knights Frontier** | 2025.09 ~ 2026.04 | - |
 
 ---
@@ -56,11 +58,11 @@
 
 ### Team Projects
 
-**🔓 CVE Discovery via Fuzzing** _(2025.03 ~2025.06)_  
-Discovered **CVE-2025-53015** through Fuzzing   
+**🔓 CVE Discovery via Fuzzing** _(2025.03 ~ 2025.06)_  
+Discovered **CVE-2025-53015** through fuzzing  
 
-**📦 Harfbuzz Fuzzing & Security Research** _(2025.12)_  
-Discovered **CVE-2026-22693** through Fuzzing
+**📦 HarfBuzz Fuzzing & Security Research** _(2025.12)_  
+Discovered **CVE-2026-22693** through fuzzing
 
 **🔧 8-bit Computer Build** _(2025.11 ~ 2026.04)_  
 Clock, Register, Program Counter implementation
@@ -77,19 +79,133 @@ LLM-based CTF solving program
 ## 🏆 CVE List
 
 | CVE | Target | Summary |
-|-----|--------|------|
+|-----|--------|---------|
 | CVE-2025-53015 | ImageMagick | Infinite loop |
 | CVE-2026-22693 | HarfBuzz | NULL pointer dereference |
 | CVE-2026-2239 | GIMP | Heap buffer overflow |
 | CVE-2026-26981 | OpenEXR | Heap OOB read |
-| CVE-2026-6695 | GIMP | HEAP OOB write |
+| CVE-2026-6695 | GIMP | Heap OOB write |
 
 ---
 
 ## 🎓 Education & Achievements
 
-- 🏫 **Gachon University** — Computer Engineering (2021.03 ~)
-- 🏆 **P4C (System Hacking Study)** — TOP 3 completion (3월~2025년5월)
+- 🎓 **Gachon University** — M.S. in Information Security (In Progress)
+  - SSA (Software Security Assessment) Lab
+- 🏫 **Gachon University** — B.S. in Computer Engineering (2021.03 ~ 2026)
+- 🏆 **P4C (System Hacking Study)** — TOP 3 Completion (2025.03 ~ 2025.05)
+- 📄 **Conference** — LLM 기반 소프트웨어 취약점 분석 연구 동향 및 기술적 챌린지 분석 | 한국정보보호학회
+
+---
+
+## 🔗 Links
+
+<p align="center">
+  <a href="https://github.com/JungWooJJING"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://jjingjjing-2.tistory.com/"><img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JungWooJJING&style=flat-square&color=667eea" alt="Profile views"/>
+</p>
+
+<div align="center">
+
+### Hi there, I'm **JungWoo Park** 👋
+
+**Security Researcher** · **Fuzzing** · **CVE Hunter** · **Bug Bounty**
+
+<br>
+
+`📍 Republic of Korea` · `✉️ cuby5577@gmail.com` · `Discord jungwoo_jjing`
+
+<br>
+<br>
+
+</div>
+
+---
+
+## 👋 About Me
+
+> 🔐 **Security Researcher** focused on fuzzing & vulnerability discovery  
+> 🎓 **M.S. Student in Information Security** @ Gachon University  
+> 🔬 **Graduate Researcher** @ SSA (Software Security Assessment) Lab  
+> 🐛 **CVE Discovery** · **Bug Bounty** · Open-source security research
+
+---
+
+## 🛠️ Main Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AFL++-E44D30?style=for-the-badge&logoColor=white" alt="AFL++"/>
+  <img src="https://img.shields.io/badge/LibFuzzer-262C3E?style=for-the-badge&logo=llvm&logoColor=white" alt="LibFuzzer"/>
+  <img src="https://img.shields.io/badge/GDB-2F2F2F?style=for-the-badge&logoColor=white" alt="GDB"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Ghidra-FFFFFF?style=for-the-badge&logoColor=2D2D2D" alt="Ghidra"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+<p align="center">
+  <sub><i>Fuzzing · Reverse Engineering · Binary Analysis · Exploit Development</i></sub>
+</p>
+
+---
+
+## 🏢 Affiliations
+
+| Group | Period | Note |
+|:---:|:---:|:---|
+| **Pay1oad** | 2024.03 ~ 2026.08 | - |
+| **SSA (Software Security Assessment) Lab** | 2025.07 ~ present | Graduate Researcher |
+| **Hspace Knights Frontier** | 2025.09 ~ 2026.04 | - |
+
+---
+
+## 🛡️ Projects
+
+### Team Projects
+
+**🔓 CVE Discovery via Fuzzing** _(2025.03 ~ 2025.06)_  
+Discovered **CVE-2025-53015** through fuzzing  
+
+**📦 HarfBuzz Fuzzing & Security Research** _(2025.12)_  
+Discovered **CVE-2026-22693** through fuzzing
+
+**🔧 8-bit Computer Build** _(2025.11 ~ 2026.04)_  
+Clock, Register, Program Counter implementation
+
+---
+
+### Personal Projects
+
+**🤖 [Pwnable-Solver](https://github.com/JungWooJJING/Pwnable-Solver)** _(2025.06 ~ 2026.08)_  
+LLM-based CTF solving program
+
+---
+
+## 🏆 CVE List
+
+| CVE | Target | Summary |
+|-----|--------|---------|
+| CVE-2025-53015 | ImageMagick | Infinite loop |
+| CVE-2026-22693 | HarfBuzz | NULL pointer dereference |
+| CVE-2026-2239 | GIMP | Heap buffer overflow |
+| CVE-2026-26981 | OpenEXR | Heap OOB read |
+| CVE-2026-6695 | GIMP | Heap OOB write |
+
+---
+
+## 🎓 Education & Achievements
+
+- 🎓 **Gachon University** — M.S. in Information Security (In Progress)
+  - SSA (Software Security Assessment) Lab
+- 🏫 **Gachon University** — B.S. in Computer Engineering (2021.03 ~ 2026)
+- 🏆 **P4C (System Hacking Study)** — TOP 3 Completion (2025.03 ~ 2025.05)
 - 📄 **Conference** — LLM 기반 소프트웨어 취약점 분석 연구 동향 및 기술적 챌린지 분석 | 한국정보보호학회
 
 ---
